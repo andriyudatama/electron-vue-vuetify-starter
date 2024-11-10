@@ -1,10 +1,10 @@
 <div align="center"> 
 
-# Electron Vue Template
+# Electron Vue Vuetify Template
   
 <!-- <img width="794" alt="image" src="https://user-images.githubusercontent.com/32544586/222748627-ee10c9a6-70d2-4e21-b23f-001dd8ec7238.png"> -->
 
-A simple starter template for a **Vue3** + **Electron** TypeScript based application, including **ViteJS** and **Electron Builder**.
+A simple starter template for a **Vue3** + **Electron** + **Vuetify** TypeScript based application, including **ViteJS** and **Electron Builder**.
 </div>
 
 ## About

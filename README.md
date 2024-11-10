@@ -1,5 +1,6 @@
 <div align="center"> 
 
+
 # Electron Vue Vuetify Template
   
 <!-- <img width="794" alt="image" src="https://user-images.githubusercontent.com/32544586/222748627-ee10c9a6-70d2-4e21-b23f-001dd8ec7238.png"> -->

@@ -1,15 +1,10 @@
 <script setup>
 import { ref } from 'vue'
-
-defineProps({
-  msg: String,
-})
-
 const count = ref(0)
 </script>
 
 <template>
-  <v-container>
+  <v-responsive class="fill-height justify-center align-center">
     <v-row class="d-flex justify-center flex-wrap">
       <v-col cols="4">
         <v-card>
@@ -25,7 +20,7 @@ const count = ref(0)
         </v-card>
       </v-col>
     </v-row>
-  </v-container>
+  </v-responsive>
 </template>
 
 <style scoped>
